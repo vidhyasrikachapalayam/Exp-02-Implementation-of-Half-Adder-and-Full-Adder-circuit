@@ -82,7 +82,7 @@ endmodule
 
 
 
-##TRUTH TABLE 
+## TRUTH TABLE 
 ## Halfadder
 
 ![image](https://github.com/vidhyasrikachapalayam/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119477817/76d22e8d-9c16-483f-a86d-97010d36007a)
