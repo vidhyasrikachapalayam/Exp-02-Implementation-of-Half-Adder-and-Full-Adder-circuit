@@ -74,7 +74,7 @@ endmodule
 ![image](https://github.com/vidhyasrikachapalayam/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119477817/6a4bfa73-5fcb-48d9-bde5-1e7d347d648b)
 
 
-### TIMING DIAGRAM
+## TIMING DIAGRAM
 ## Halfadder
 ![image](https://github.com/vidhyasrikachapalayam/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119477817/9bdd8ad7-5fd3-457e-8481-5fbafdbbbd8a)
 ## Fulladder
@@ -82,10 +82,13 @@ endmodule
 
 
 
-### TRUTH TABLE 
-##Halfadder
+##TRUTH TABLE 
+## Halfadder
+
 ![image](https://github.com/vidhyasrikachapalayam/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119477817/76d22e8d-9c16-483f-a86d-97010d36007a)
-##Fulladder
+
+## Fulladder
+
 ![image](https://github.com/vidhyasrikachapalayam/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119477817/a5313912-38be-4892-a629-28e6c35d2b93)
 
 
